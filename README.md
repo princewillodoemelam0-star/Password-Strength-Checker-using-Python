@@ -1,4 +1,4 @@
-# Password-Strength-Checker-using-Python
+# Decodelabs project 1 Password-Strength-Checker-using-Python
 I built a Password Strength Checker using Python that evaluates passwords based on key security requirements
 🚀 Project 1 Completed: Password Strength Checker 🔐
 
